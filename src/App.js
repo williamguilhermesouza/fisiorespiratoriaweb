@@ -25,6 +25,58 @@ function App() {
 
         <div className="results">
             <p className="title">Resultados</p>
+            <table className="resultsTable">
+                <tr>
+                    <th></th>
+                    <th>Paciente</th>
+                    <th>Alvo Terapêutico</th>
+                    <th>Predito</th>
+                    <th>Condições do Paciente</th>
+                </tr>
+                <tr>
+                    <th>Peak Flow</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>PIMax</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>PEMax</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>CI</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>CV</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>PIdeal</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                
+            </table>
             
         </div>
         
