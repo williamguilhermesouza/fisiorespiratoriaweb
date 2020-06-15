@@ -1,5 +1,26 @@
 body {
-    flex: 1;
-    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     background: #2B495A;
+    color: #D1B5B5;
+
 }
+
+.pageTitle {
+    font-size: 32pt;
+    line-height: 20%;
+}
+
+.pageTitle img {
+    width: 100px;    
+}
+
+.data {}
+
+.title {}
+
+.results {}
+
+.resultsTable {}
