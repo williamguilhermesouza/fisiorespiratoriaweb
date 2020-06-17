@@ -12,14 +12,18 @@ function App() {
         <div className="data">
             <form>
                 <p className="title">Dados do Paciente</p>
-                <label for="sex">Sexo</label>
-                <input type="text" />
-                <label for="age">Idade</label>
-                <input type="text" />
-                <label for="height">Estatura</label>
-                <input type="text" />
-                <label for="weight">Peso</label>
-                <input type="text" />
+                <div className="labels">
+                    <label for="sex">Sexo</label>
+                    <label for="age">Idade</label>
+                    <label for="height">Estatura</label>
+                    <label for="weight">Peso</label>
+                </div>
+                <div className="inputs">
+                    <input id="sex" type="text" />
+                    <input id="age" type="text" />
+                    <input id="height" type="text" />
+                    <input id="weight" type="text" />
+                </div>
             </form>
         </div>
 
