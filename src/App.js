@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import AdSense from 'react-adsense';
 
 function App() {
   return (
@@ -89,7 +90,9 @@ function App() {
             </table>
             
         </div>
-        
+        /* <AdSense.Google
+            client="ca-pub-9684035790566306"
+        /> */
     </div>
   );
 }
