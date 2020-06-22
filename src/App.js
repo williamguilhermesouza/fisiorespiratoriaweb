@@ -12,17 +12,23 @@ function App() {
         <div className="data">
             <form>
                 <p className="title">Dados do Paciente</p>
-                <div className="labels">
-                    <label for="sex">Sexo</label>
-                    <label for="age">Idade</label>
-                    <label for="height">Estatura</label>
-                    <label for="weight">Peso</label>
-                </div>
-                <div className="inputs">
-                    <input id="sex" type="text" />
-                    <input id="age" type="text" />
-                    <input id="height" type="text" />
-                    <input id="weight" type="text" />
+                <div className="labelsInputs">
+                    <div className="field">
+                        <label for="sex">Sexo</label>
+                        <input id="sex" type="text" />
+                    </div>
+                    <div className="field">
+                        <label for="age">Idade</label>
+                        <input id="age" type="text" />
+                    </div>
+                    <div className="field">
+                        <label for="height">Estatura</label>
+                        <input id="height" type="text" />
+                    </div>
+                    <div className="field">
+                        <label for="weight">Peso</label>
+                        <input id="weight" type="text" />
+                    </div>
                 </div>
             </form>
         </div>
@@ -31,53 +37,53 @@ function App() {
             <p className="title">Resultados</p>
             <table className="resultsTable">
                 <tr>
-                    <th></th>
-                    <th>Paciente</th>
-                    <th>Alvo Terapêutico</th>
-                    <th>Predito</th>
-                    <th>Condições do Paciente</th>
+                    <th id="emptyCell"></th>
+                    <th className="tableTop">Paciente</th>
+                    <th className="tableTop">Alvo Terapêutico</th>
+                    <th className="tableTop">Predito</th>
+                    <th className="tableTop tableEnd">Condições do Paciente</th>
                 </tr>
                 <tr>
-                    <th>Peak Flow</th>
+                    <th className="tableLeft">Peak Flow</th>
+                    <td className="tableBegin"></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td className="tableEnd"></td>
                 </tr>
                 <tr>
-                    <th>PIMax</th>
+                    <th className="tableLeft">PIMax</th>
+                    <td className="tableBegin"></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td className="tableEnd"></td>
                 </tr>
                 <tr>
-                    <th>PEMax</th>
+                    <th className="tableLeft">PEMax</th>
+                    <td className="tableBegin"></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td className="tableEnd"></td>
                 </tr>
                 <tr>
-                    <th>CI</th>
+                    <th className="tableLeft">CI</th>
+                    <td className="tableBegin"></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td className="tableEnd"></td>
                 </tr>
                 <tr>
-                    <th>CV</th>
+                    <th className="tableLeft">CV</th>
+                    <td className="tableBegin"></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td className="tableEnd"></td>
                 </tr>
                 <tr>
-                    <th>PIdeal</th>
+                    <th className="tableLeft">PIdeal</th>
+                    <td className="tableBegin"></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td className="tableEnd"></td>
                 </tr>
                 
             </table>

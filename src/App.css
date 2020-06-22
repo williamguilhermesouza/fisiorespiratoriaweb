@@ -19,13 +19,58 @@ body {
 
 .data {}
 
-.title {}
-
-.labels label {
+.title {
+    margin: 50px 0 50px 0;
 }
 
-.inputs {}
+.labelsInputs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.field input {
+    align-self: center;
+    width: 25%;
+    margin-top: 5px;
+}
 
 .results {}
 
-.resultsTable {}
+.resultsTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#emptyCell {
+    border-style: none;
+}
+
+th, td {
+    border: 1px solid #DDD;
+    padding: 8px;
+}
+
+.tableTop {
+    border-style: none solid solid none;
+    padding: 0 40px 30px 40px;
+}
+
+.tableLeft {
+    border-style: none;
+}
+
+.tableBegin {
+    border-style: solid solid solid none;
+}
+
+.tableEnd {
+    border-style: none none solid solid;
+}
+
