@@ -41,6 +41,11 @@ body {
     margin-top: 5px;
 }
 
+form input {
+    margin-top: 7%;    
+    margin-bottom: 2%;
+}
+
 .results {}
 
 .resultsTable {
@@ -68,5 +73,9 @@ th, td {
 
 .tableEnd {
     border-style: none none solid solid;
+}
+
+#pidealLeft {
+    border-style: solid none solid none;
 }
 
