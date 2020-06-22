@@ -14,20 +14,20 @@ function App() {
                 <p className="title">Dados do Paciente</p>
                 <div className="labelsInputs">
                     <div className="field">
-                        <label for="sex">Sexo</label>
-                        <input id="sex" type="text" />
+                        <label for="sex">Sexo (M ou F)</label>
+                        <input id="sex" type="text" maxlength="1" pattern="M|F" />
                     </div>
                     <div className="field">
-                        <label for="age">Idade</label>
-                        <input id="age" type="text" />
+                        <label for="age">Idade (anos)</label>
+                        <input id="age" type="number" min="1" max="100" />
                     </div>
                     <div className="field">
-                        <label for="height">Estatura</label>
-                        <input id="height" type="text" />
+                        <label for="height">Estatura (cm)</label>
+                        <input id="height" type="number" min="50" max="250"/>
                     </div>
                     <div className="field">
-                        <label for="weight">Peso</label>
-                        <input id="weight" type="text" />
+                        <label for="weight">Peso (Kg)</label>
+                        <input id="weight" type="number" min="1" max="200"/>
                     </div>
                 </div>
             </form>
@@ -37,7 +37,7 @@ function App() {
             <p className="title">Resultados</p>
             <table className="resultsTable">
                 <tr>
-                    <th id="emptyCell"></th>
+                    <th className="tableLeft"></th>
                     <th className="tableTop">Paciente</th>
                     <th className="tableTop">Alvo Terapêutico</th>
                     <th className="tableTop">Predito</th>

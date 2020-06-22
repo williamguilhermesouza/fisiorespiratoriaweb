@@ -48,10 +48,6 @@ body {
     border-collapse: collapse;
 }
 
-#emptyCell {
-    border-style: none;
-}
-
 th, td {
     border: 1px solid #DDD;
     padding: 8px;
