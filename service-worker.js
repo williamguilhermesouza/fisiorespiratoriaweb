@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fisiorespiratoriaweb/precache-manifest.d1cef135e2b4d674d1111305b631c540.js"
+  "/fisiorespiratoriaweb/precache-manifest.4657a7e6e4fe57b2cd0c1d975ad10967.js"
 );
 
 self.addEventListener('message', (event) => {
