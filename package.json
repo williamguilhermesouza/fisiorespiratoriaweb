@@ -2,12 +2,13 @@
   "name": "fisiorespiratoriaweb",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://williamguilhermesouza.github.io/fisiorespiratoriaweb",
+  "homepage": "https://williamguilhermesouza.github.io/fisiorespiratoriaweb",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
+    "react-adsense": "^0.1.0",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
