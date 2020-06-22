@@ -79,3 +79,6 @@ th, td {
     border-style: solid none solid none;
 }
 
+.tableInput {
+    width: 90px;
+}
