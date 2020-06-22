@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/fisiorespiratoriaweb/static/css/main.3d46eb9f.chunk.css",
-    "main.js": "/fisiorespiratoriaweb/static/js/main.ea0194d9.chunk.js",
-    "main.js.map": "/fisiorespiratoriaweb/static/js/main.ea0194d9.chunk.js.map",
+    "main.css": "/fisiorespiratoriaweb/static/css/main.4da005b2.chunk.css",
+    "main.js": "/fisiorespiratoriaweb/static/js/main.dae06df8.chunk.js",
+    "main.js.map": "/fisiorespiratoriaweb/static/js/main.dae06df8.chunk.js.map",
     "runtime-main.js": "/fisiorespiratoriaweb/static/js/runtime-main.860998d2.js",
     "runtime-main.js.map": "/fisiorespiratoriaweb/static/js/runtime-main.860998d2.js.map",
-    "static/js/2.ddd37a05.chunk.js": "/fisiorespiratoriaweb/static/js/2.ddd37a05.chunk.js",
-    "static/js/2.ddd37a05.chunk.js.map": "/fisiorespiratoriaweb/static/js/2.ddd37a05.chunk.js.map",
+    "static/js/2.2d71b949.chunk.js": "/fisiorespiratoriaweb/static/js/2.2d71b949.chunk.js",
+    "static/js/2.2d71b949.chunk.js.map": "/fisiorespiratoriaweb/static/js/2.2d71b949.chunk.js.map",
     "index.html": "/fisiorespiratoriaweb/index.html",
-    "precache-manifest.55eaa2744f6144c89a1bd3f8fb43c126.js": "/fisiorespiratoriaweb/precache-manifest.55eaa2744f6144c89a1bd3f8fb43c126.js",
+    "precache-manifest.b13fbfb42e56d5286e4bb133b0853916.js": "/fisiorespiratoriaweb/precache-manifest.b13fbfb42e56d5286e4bb133b0853916.js",
     "service-worker.js": "/fisiorespiratoriaweb/service-worker.js",
-    "static/css/main.3d46eb9f.chunk.css.map": "/fisiorespiratoriaweb/static/css/main.3d46eb9f.chunk.css.map",
-    "static/js/2.ddd37a05.chunk.js.LICENSE.txt": "/fisiorespiratoriaweb/static/js/2.ddd37a05.chunk.js.LICENSE.txt"
+    "static/css/main.4da005b2.chunk.css.map": "/fisiorespiratoriaweb/static/css/main.4da005b2.chunk.css.map",
+    "static/js/2.2d71b949.chunk.js.LICENSE.txt": "/fisiorespiratoriaweb/static/js/2.2d71b949.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.860998d2.js",
-    "static/js/2.ddd37a05.chunk.js",
-    "static/css/main.3d46eb9f.chunk.css",
-    "static/js/main.ea0194d9.chunk.js"
+    "static/js/2.2d71b949.chunk.js",
+    "static/css/main.4da005b2.chunk.css",
+    "static/js/main.dae06df8.chunk.js"
   ]
 }
