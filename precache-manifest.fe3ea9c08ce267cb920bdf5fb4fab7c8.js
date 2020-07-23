@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f2605b35e93d3490ef61a17485e9a43",
+    "revision": "6997169001c0b8b1d612a7437bcc5c77",
     "url": "/fisiorespiratoriaweb/index.html"
   },
   {
-    "revision": "e63753fb024eb2f1c2e9",
+    "revision": "c91f8adda759466c7106",
     "url": "/fisiorespiratoriaweb/static/css/main.2412606c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fisiorespiratoriaweb/static/js/2.aac89516.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e63753fb024eb2f1c2e9",
-    "url": "/fisiorespiratoriaweb/static/js/main.bb2471c9.chunk.js"
+    "revision": "c91f8adda759466c7106",
+    "url": "/fisiorespiratoriaweb/static/js/main.b4da0063.chunk.js"
   },
   {
     "revision": "1843c5f29376396547d6",
