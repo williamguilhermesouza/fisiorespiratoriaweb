@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fisiorespiratoriaweb/static/css/main.2412606c.chunk.css",
-    "main.js": "/fisiorespiratoriaweb/static/js/main.43ae6d8f.chunk.js",
-    "main.js.map": "/fisiorespiratoriaweb/static/js/main.43ae6d8f.chunk.js.map",
+    "main.js": "/fisiorespiratoriaweb/static/js/main.bb2471c9.chunk.js",
+    "main.js.map": "/fisiorespiratoriaweb/static/js/main.bb2471c9.chunk.js.map",
     "runtime-main.js": "/fisiorespiratoriaweb/static/js/runtime-main.860998d2.js",
     "runtime-main.js.map": "/fisiorespiratoriaweb/static/js/runtime-main.860998d2.js.map",
     "static/js/2.aac89516.chunk.js": "/fisiorespiratoriaweb/static/js/2.aac89516.chunk.js",
     "static/js/2.aac89516.chunk.js.map": "/fisiorespiratoriaweb/static/js/2.aac89516.chunk.js.map",
     "index.html": "/fisiorespiratoriaweb/index.html",
-    "precache-manifest.4dd62e883ca236aab1663f341a2cdbd9.js": "/fisiorespiratoriaweb/precache-manifest.4dd62e883ca236aab1663f341a2cdbd9.js",
+    "precache-manifest.646108c1461d7dfb464f6735e911b3ec.js": "/fisiorespiratoriaweb/precache-manifest.646108c1461d7dfb464f6735e911b3ec.js",
     "service-worker.js": "/fisiorespiratoriaweb/service-worker.js",
     "static/css/main.2412606c.chunk.css.map": "/fisiorespiratoriaweb/static/css/main.2412606c.chunk.css.map",
     "static/js/2.aac89516.chunk.js.LICENSE.txt": "/fisiorespiratoriaweb/static/js/2.aac89516.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.860998d2.js",
     "static/js/2.aac89516.chunk.js",
     "static/css/main.2412606c.chunk.css",
-    "static/js/main.43ae6d8f.chunk.js"
+    "static/js/main.bb2471c9.chunk.js"
   ]
 }
