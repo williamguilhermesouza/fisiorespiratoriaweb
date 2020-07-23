@@ -314,13 +314,6 @@ function App() {
                     <td className="tableEnd" id="peCondition"></td>
                 </tr>
                 <tr>
-                    <th className="tableLeft">CI</th>
-                    <td className="tableBegin"><input className="tableInput" type="number" onChange={e => handleCiChange(e)}/></td>
-                    <td id="calcciTarget"></td>
-                    <td id="calcci"></td>
-                    <td className="tableEnd" id="ciCondition"></td>
-                </tr>
-                <tr>
                     <th className="tableLeft">CV</th>
                     <td className="tableBegin"><input className="tableInput" type="number" onChange={e => handleCvChange(e)}/></td>
                     <td id="calccvTarget"></td>
